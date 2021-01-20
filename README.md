@@ -1,4 +1,4 @@
-### Hi there, I'm İlknur Sucaklı - [lovelysmilee][website] 👋
+### Hi there, I'm İlknur Sucaklı - [lovelysmilee](https://github.com/lovelysmilee) 👋
 
 ## I'm a Mechanical Engineer, Jr.Frontend Developer, and Music Lover!
 
