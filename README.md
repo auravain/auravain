@@ -1,6 +1,6 @@
 ### Hi there, I'm İlknur Sucaklı - [lovelysmilee](https://github.com/lovelysmilee) 👋
 
-## I'm a Mechanical Engineer, Jr.Frontend Developer, and Music Lover!
+## I'm a Mechanical Engineer, Jr. Frontend Developer, and Music Lover!
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
@@ -9,8 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.lovelysmilee.vercel.app
-/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD)
+[<img src="https://novatorem.lovelysmilee.vercel.app/api/spotify" alt="lovelysmilee Spotify Playing" width="350" />](https://open.spotify.com/user/lovelysmilee)
 
 
 ### Connect with me:
@@ -37,3 +36,9 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="lovelysmilee's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=lovelysmilee&show_icons=true&hide_border=true" />
+
+</details>
