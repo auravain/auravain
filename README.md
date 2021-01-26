@@ -1,4 +1,6 @@
-### Hi there, I'm İlknur Sucaklı - [lovelysmilee](https://github.com/lovelysmilee) 👋
+### Hi there, I'm İlknur Sucaklı - [lovelysmilee](https://github.com/lovelysmilee) 👋 
+
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@lovelysmilee)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/lovelysmilee)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=lovelysmilee.lovelysmilee)
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and Music Lover!
 
@@ -34,7 +36,20 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
+
 <br />
+
+### Gaming: 
+
+<img align="left" alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
+<img align="left" alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+<img align="left" alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> 
+<img align="left" alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+<img align="left" alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black"/>
+<img align="left" alt="Xbox" src="https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white"/>
+<img align="left" alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA%20-%2376B900.svg?&style=for-the-badge&logo=nVIDIA&logoColor=white"/>
+
+
 <br />
 
 ---
@@ -45,3 +60,5 @@
   <img align="left" alt="lovelysmilee's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=lovelysmilee&show_icons=true&hide_border=true" />
 
 </details>
+
+
