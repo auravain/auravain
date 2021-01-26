@@ -41,7 +41,9 @@
 
 ### Gaming: 
 
-[<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam%20-%23171a21.svg?logoColor=white&logo=steam&style=for-the-badge"/>](https://steamcommunity.com/profiles/76561198805496446) [<img align="left" alt="Origin" src="https://img.shields.io/badge/Origin%20-%23313131.svg?logoColor=orange&logo=origin&style=for-the-badge" />](https://www.origin.com/irl/en-us/profile/lovelysmile94) <img align="left" alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> 
+[<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam%20-%23171a21.svg?logoColor=white&logo=steam&style=for-the-badge"/>](https://steamcommunity.com/profiles/76561198805496446) 
+[<img align="left" alt="Origin" src="https://img.shields.io/badge/Origin%20-%23313131.svg?logoColor=orange&logo=origin&style=for-the-badge" />](https://www.origin.com/irl/en-us/profile/lovelysmile94) 
+<img align="left" alt="Epic Games" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/> 
 <img align="left" alt="Unreal Engine" src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
 <img align="left" alt="Unity" src="https://img.shields.io/badge/unity%20-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
 <img align="left" alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black"/>
