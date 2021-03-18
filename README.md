@@ -1,4 +1,4 @@
-### Hi there, I'm İlknur Sucaklı - [lovelysmilee](https://github.com/lovelysmilee) 👋 
+### Hi there, I'm İlknur Sucaklı - [Auravain](https://github.com/auravain) 👋 
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@lovelysmilee)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/lovelysmilee)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=lovelysmilee.lovelysmilee)
 
@@ -11,12 +11,12 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.lovelysmilee.vercel.app/api/spotify" alt="lovelysmilee Spotify Playing" width="350" />](https://open.spotify.com/user/lovelysmilee)
+[<img src="https://novatorem.lovelysmilee.vercel.app/api/spotify" alt="Auravain Spotify Playing" width="350" />](https://open.spotify.com/user/lovelysmilee)
 
 
 ### Connect with me:
 
-[<img align="left" alt="lovelysmilee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ilknursucakli94)
+[<img align="left" alt="auravain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ilknursucakli94)
 
 
 <br />
@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="lovelysmilee's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=lovelysmilee&show_icons=true&hide_border=true" />
+  <img align="left" alt="Auravain's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=lovelysmilee&show_icons=true&hide_border=true" />
 
 </details>
 
