@@ -1,6 +1,6 @@
 ### Hi there, I'm İlknur Sucaklı - [Auravain](https://github.com/auravain) 👋 
 
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@auravain)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/auravain)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=auravain.auravain)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@auravain)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/auravain)[<img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/>](https://prezi.com/user/omacdvjy7vfy/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=auravain.auravain)
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and Music Lover!
 
@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="auravain | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ilknursucakli94)
-
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="40px" />](https://www.linkedin.com/in/ilknursucakli94)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="40px" />](https://twitter.com/auravain)
 
 <br />
 
