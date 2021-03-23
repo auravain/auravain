@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Auravain's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=lovelysmilee&show_icons=true&hide_border=true" />
+  <img align="left" alt="Auravain's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=auravain&show_icons=true&hide_border=true" />
 
 </details>
 
