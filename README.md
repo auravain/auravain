@@ -1,6 +1,6 @@
 ### Hi there, I'm İlknur Sucaklı - [Auravain](https://github.com/auravain) 👋 
 
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@lovelysmilee)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/lovelysmilee)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=auravain.auravain)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@auravain)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/auravain)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=auravain.auravain)
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and Music Lover!
 
