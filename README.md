@@ -11,14 +11,19 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.lovelysmilee.vercel.app/api/spotify" alt="Auravain Spotify Playing" width="350" />](https://open.spotify.com/user/lovelysmilee)
+[<img src="https://novatorem.lovelysmilee.vercel.app/api/spotify" alt="Auravain Spotify Playing" width="400" />](https://open.spotify.com/user/11147266714)
 
 
 ### Connect with me:
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="40px" />](https://www.linkedin.com/in/ilknursucakli94)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="40px" />](https://twitter.com/auravain)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="auravain | LinkedIn" width="50px" />](https://www.linkedin.com/in/ilknursucakli94)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="auravain | Twitter" width="50px" />](https://twitter.com/auravain)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" align="left" alt="auravain | Youtube" width="50px" />](https://www.youtube.com/channel/UCGPB9RAyqkg5i-hhFUsAj_A)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" align="left" alt="auravain | Instagram" width="50px" />](https://www.instagram.com/auravainn/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" align="left" alt="auravain | Spotify" width="50px" />](https://open.spotify.com/user/11147266714)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitch.svg" align="left" alt="auravain | Twitch" width="50px" />](https://www.twitch.tv/auravain)
 
+<br>
 <br />
 
 ### Languages and Tools:
