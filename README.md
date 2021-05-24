@@ -60,8 +60,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Auravain's GitHub Stats" src="https://github-readme-stats.lovelysmilee.vercel.app/api?username=auravain&show_icons=true&hide_border=true" />
+  <img align="left" alt="Auravain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=auravain&show_icons=true&hide_border=true&count_private=true&theme=react" />
 
 </details>
 
+<details>
+  <summary>:zap: Top Languages</summary>
 
+  <img align="left" alt="Auravain's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auravain&show_icons=true&hide_border=true&count_private=true&theme=react&layout=compact" />
+
+</details>
