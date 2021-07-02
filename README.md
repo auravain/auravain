@@ -4,7 +4,7 @@
 
 ## I'm a Mechanical Engineer, Jr. Frontend Developer, and Music Lover!
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working with React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn and improve myself as much as I can
 - ⚡ Fun fact: I love to play games and play guitar / violin
