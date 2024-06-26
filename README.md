@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working with React
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn and improve myself as much as I can
+- 🥅 2024 Goals: Learn and improve myself as much as I can
 - ⚡ Fun fact: I love to play games and play guitar / violin
 
 ### Spotify Playing 🎧
