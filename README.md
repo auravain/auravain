@@ -1,4 +1,4 @@
-### Hi there, I'm İlknur Su 👋 
+### Hi there, I'm Auravain👋 
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@auravain)  [<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/auravain)[<img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/>](https://prezi.com/user/omacdvjy7vfy/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=auravain.auravain)
 
